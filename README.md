@@ -1,5 +1,6 @@
 # EquiScore
-Deep Graph Convolution Network Model to Predict Ligand-Protein Binding Affinity.
+Deep Graph Convolution Based Model to Predict Ligand-Protein Binding Affinity.
+
 EquiScore uses EquiBind's [1] protein and ligand graph representations to predict binding affinity (Kd, Ki, IC50).
 This project is part of university course project.
 
